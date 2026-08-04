@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Stata
+*.smcl
+*.log
+*.tmp
+*.bak
+
+# Raw DHS data
+data/raw/
+
+# ZIP archives
+*.zip
