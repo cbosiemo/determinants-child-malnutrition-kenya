@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Stata
+*.smcl
+*.log
+*.tmp
+
+# Temporary files
+*.bak
