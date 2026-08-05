@@ -5,6 +5,7 @@
 *.smcl
 *.log
 *.tmp
+<<<<<<< HEAD
 *.bak
 
 # Raw DHS data
@@ -12,3 +13,8 @@ data/raw/
 
 # ZIP archives
 *.zip
+=======
+
+# Temporary files
+*.bak
+>>>>>>> 27bcbb8c5dac35a279ccfd9e502d7a72a12ba208
